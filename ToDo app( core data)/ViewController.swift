@@ -18,7 +18,7 @@ class ViewController: UIViewController ,UITableViewDelegate , UITableViewDataSou
         // Do any additional setup after loading the view, typically from a nib.
         
         
-    
+    print("yes")
         
         tableView.delegate = self
         tableView.dataSource = self
